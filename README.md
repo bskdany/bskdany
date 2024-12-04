@@ -1,4 +1,4 @@
-Currently learnning ML, electronics and pcb design
+Currently learning ML, electronics and pcb design
 
 
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
